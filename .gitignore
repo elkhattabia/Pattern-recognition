@@ -65,6 +65,11 @@ htmlcov/
 .vscode/*
 !.vscode/settings.json
 
+# Binary and data files
+*.npy
+*.png
+*.pdf
+
 # Optional: ignore dataset/raw binary files (uncomment if desired)
 # data/
 # datasets/
